@@ -20,6 +20,38 @@ Welcome! This guide will help you set up your environment, complete the activiti
 1. A GitHub account.
 2. Basic familiarity with using GitHub and Codespaces.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Steps to Create a Codespace
 1. **Open Repository**: Navigate to this repository in your GitHub account.
 2. **Create Codespace**: Click the `Code` button, select the `Codespaces` tab, and then click `Create codespace on main`.
@@ -33,6 +65,8 @@ Welcome! This guide will help you set up your environment, complete the activiti
    - This will ensure your notebooks are ready to run Python code.
 
 ---
+
+
 
 ## 2. Activities
 
